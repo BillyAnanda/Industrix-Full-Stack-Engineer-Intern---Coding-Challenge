@@ -1,0 +1,25 @@
+@media (max-width: 768px) {
+  .ant-space {
+    width: 100% !important;
+  }
+
+  .ant-space-item {
+    width: 100% !important;
+  }
+
+  .ant-input {
+    width: 100% !important;
+  }
+
+  .ant-select {
+    width: 100% !important;
+  }
+
+  .ant-btn {
+    width: 100% !important;
+  }
+
+  .ant-layout-header {
+    padding: 10px !important;
+  }
+}
